@@ -1,0 +1,9 @@
+{
+  "projectName": "GigFlow: AI-Powered Decentralized Gig Economy Platform",
+  "projectDescription": "A Web3 gig economy marketplace built on Rootstock blockchain with AI-driven matching, reputation, and payment systems",
+  "projectType": "Web3",
+  "languageModel": "claude-3.7-sonnet",
+  "programmingLanguages": ["TypeScript", "JavaScript", "Solidity"],
+  "frameworks": ["Next.js", "React", "TailwindCSS", "Ethers.js"],
+  "lastUpdated": "2024-07-13"
+} 
